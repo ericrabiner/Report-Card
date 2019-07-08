@@ -1,6 +1,6 @@
 # Report Cards
 
-An application written in C++ that reads from .csv files and creates a new text file to store the processed data as a report card.
+An application written in C++ that reads and processes data from .csv files and creates a new text file called output.txt. The default delimeter is ',' and can be set to any character.
 
 ## Prerequisites
 Install the Minimalist GNU for Windows
