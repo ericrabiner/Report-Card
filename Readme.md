@@ -1,4 +1,4 @@
-# Report Card Report
+# Report Cards
 
 An application written in C++ that reads from .csv files and creates a new text file to store the processed data as a report card.
 
